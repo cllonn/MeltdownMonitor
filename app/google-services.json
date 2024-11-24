@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "743127445830",
+    "firebase_url": "https://meltdownmonitor-e6d3c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "meltdownmonitor-e6d3c",
+    "storage_bucket": "meltdownmonitor-e6d3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743127445830:android:3c9ff2bb60a02090917547",
+        "android_client_info": {
+          "package_name": "com.SeniorProject.MeltdownMonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743127445830-jsro9oorbp8rcnghjn5k6g06c1cqtv4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Ux1nbETM1TQM9H-DLW6aPzCcqmd5HVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743127445830-jsro9oorbp8rcnghjn5k6g06c1cqtv4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743127445830:android:9788889c06a6206a917547",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743127445830-jsro9oorbp8rcnghjn5k6g06c1cqtv4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Ux1nbETM1TQM9H-DLW6aPzCcqmd5HVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743127445830-jsro9oorbp8rcnghjn5k6g06c1cqtv4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
