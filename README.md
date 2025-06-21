@@ -26,7 +26,7 @@ MeltdownMonitor consists of:
 - **Machine Learning Model** trained using Random Forest Classifier in Python (Jupyter Notebook), optimized with TensorFlow Lite for mobile deployment
 
 ![System Architecture](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/poster.png)
-![Poster](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/poster.png)
+![Poster](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/system_architecture.png)
 
 ## Machine Learning
 
