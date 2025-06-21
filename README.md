@@ -71,7 +71,7 @@ Data was collected via wearable sensors and logged using Google Sheets and Fireb
 
 ## Documentation
 
-- [Final Report (PDF)](link-if-available)
+- [Final Report (PDF)](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/3.pdf)
 
 ## Repository Link
 
