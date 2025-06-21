@@ -25,8 +25,8 @@ MeltdownMonitor consists of:
 - **Firebase** for real-time data storage and user management
 - **Machine Learning Model** trained using Random Forest Classifier in Python (Jupyter Notebook), optimized with TensorFlow Lite for mobile deployment
 
-![System Architecture](https://github.com/cllonn/MeltdownMonitor/Images/system_architecture.png)
-![Poster](https://github.com/cllonn/MeltdownMonitor/Images/poster.png)
+![System Architecture](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/poster.png)
+![Poster](https://github.com/cllonn/MeltdownMonitor/blob/main/Images/poster.png)
 
 ## Machine Learning
 
