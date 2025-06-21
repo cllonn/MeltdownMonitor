@@ -72,7 +72,6 @@ Data was collected via wearable sensors and logged using Google Sheets and Fireb
 ## Documentation
 
 - [Final Report (PDF)](link-if-available)
-- [Poster and Slide Deck](link-if-available)
 
 ## Repository Link
 
